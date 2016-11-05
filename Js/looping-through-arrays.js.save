@@ -1,0 +1,4 @@
+var pets = ['cat', 'dog', 'rat']; 
+for(i=0;i<pets.length;i++) {
+	You Don't Know JS
+}
